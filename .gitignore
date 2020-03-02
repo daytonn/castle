@@ -4,3 +4,5 @@
 # Except these files
 !.gitignore
 !.spacemacs
+!.config/sublime-text-3/Packages/User/*.sublime-keymap
+!.config/sublime-text-3/Packages/User/*.sublime-settings
